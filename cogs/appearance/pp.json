@@ -1,0 +1,18 @@
+{
+	"head_models": [
+		{
+			"path": "phase_4/models/char/suitA-heads",
+			"node": "pennypincher"
+		}
+	],
+	"body_type": 0,
+	"scale": 0.585808581,
+	"height": 5.26,
+	"torso_texture": "phase_3.5/maps/m_blazer.png",
+	"leg_texture": "phase_3.5/maps/m_leg.png",
+	"arm_texture": "phase_3.5/maps/m_sleeve.png",
+	"name": "#SuitPennyPincher",
+	"name_singular": "#SuitPennyPincherS",
+	"name_plural": "#SuitPennyPincherP",
+	"hand_color": [1.0, 0.5, 0.6, 1.0]
+}

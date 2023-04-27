@@ -1,0 +1,19 @@
+{
+	"head_models": [
+		{
+			"path": "phase_4/models/char/suitA-heads",
+			"node": "twoface",
+			"texture": "phase_4/maps/mingler.png"
+		}
+	],
+	"body_type": 0,
+	"scale": 0.866336634,
+	"height": 7.61,
+	"torso_texture": "phase_3.5/maps/s_blazer.png",
+	"leg_texture": "phase_3.5/maps/s_leg.png",
+	"arm_texture": "phase_3.5/maps/s_sleeve.png",
+	"name": "#SuitTheMingler",
+	"name_singular": "#SuitTheMinglerS",
+	"name_plural": "#SuitTheMinglerP",
+	"hand_color": [0.95, 0.75, 0.95, 1.0]
+}

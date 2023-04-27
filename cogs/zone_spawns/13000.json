@@ -1,0 +1,36 @@
+{
+	"minCogs": 10,
+	"maxCogs": 20,
+	"minBuildings": 0,
+	"maxBuildings": 0,
+	"buildingWeight": 0,
+	"mixedBuildingChance": 0,
+	"maxCogsInBattle": 4,
+	"battleJoinChance": [
+		1,
+		5,
+		10,
+		40,
+		60,
+		80
+	],
+	"tracks": [
+		0,
+		100,
+		0,
+		0
+	],
+	"specials": [
+		100,
+		0,
+		0,
+		0,
+		0
+	],
+	"levels": [
+		8,
+		9,
+		10
+	],
+	"respectInvasions": true
+}

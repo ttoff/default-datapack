@@ -1,0 +1,18 @@
+{
+	"head_models": [
+		{
+			"path": "phase_4/models/char/suitA-heads",
+			"node": "yesman"
+		}
+	],
+	"body_type": 0,
+	"scale": 0.680693069,
+	"height": 5.28,
+	"torso_texture": "phase_3.5/maps/c_blazer.png",
+	"leg_texture": "phase_3.5/maps/c_leg.png",
+	"arm_texture": "phase_3.5/maps/c_sleeve.png",
+	"name": "#SuitYesman",
+	"name_singular": "#SuitYesmanS",
+	"name_plural": "#SuitYesmanP",
+	"hand_color": [0.95, 0.75, 0.75, 1.0]
+}

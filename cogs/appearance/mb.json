@@ -1,0 +1,18 @@
+{
+	"head_models": [
+		{
+			"path": "phase_3.5/models/char/suitC-heads",
+			"node": "moneybags"
+		}
+	],
+	"body_type": 2,
+	"scale": 1.28019324,
+	"height": 6.97,
+	"torso_texture": "phase_3.5/maps/m_blazer.png",
+	"leg_texture": "phase_3.5/maps/m_leg.png",
+	"arm_texture": "phase_3.5/maps/m_sleeve.png",
+	"name": "#SuitMoneyBags",
+	"name_singular": "#SuitMoneyGagsS",
+	"name_plural": "#SuitMoneyBagsP",
+	"hand_color": [0.65, 0.95, 0.85, 1.0]
+}

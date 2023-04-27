@@ -1,0 +1,19 @@
+{
+	"head_models": [
+		{
+			"path": "phase_4/models/char/suitB-heads",
+			"node": "telemarketer",
+			"texture": "phase_4/maps/spin-doctor.png"
+		}
+	],
+	"body_type": 1,
+	"scale": 1.06805293,
+	"height": 7.9,
+	"torso_texture": "phase_3.5/maps/l_blazer.png",
+	"leg_texture": "phase_3.5/maps/l_leg.png",
+	"arm_texture": "phase_3.5/maps/l_sleeve.png",
+	"name": "#SuitAmbulanceChaser",
+	"name_singular": "#SuitAmbulanceChaserS",
+	"name_plural": "#SuitAmbulanceChaserP",
+	"hand_color": [0.5, 0.8, 0.75, 1.0]
+}

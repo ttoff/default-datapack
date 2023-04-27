@@ -1,0 +1,88 @@
+{
+    "prophunt_map_version": 1,
+    "map_info": {
+        "identifier": "ttrealms:toontown_central_pg",
+        "name": "Toontown Central Playground",
+        "author": "The Toontown Realms Team"
+    },
+    
+    "prop_spawn_locations": [
+        [-61.37, -91.69, 0.52, 329.60, 0, 0],
+        [-65.07, -96.43, 0.52, 9.00, 0, 0],
+        [-46.35, -88.57, 0.52, 62.62, 0, 0],
+        [-112.24, -71.32, 0.52, 339.78, 0, 0],
+        [-141.92, -39.68, 0.52, 264.32, 0, 0],
+        [-60.28, -9.61, 1.23, 287.00, 0, 0],
+        [-19.59, 40.37, 0.04, 124.58, 0, 0],
+        [-36.67, 63.39, 0.03, 124.28, 0, 0],
+        [-55.56, 69.52, 0.03, 166.70, 0, 0],
+        [21.75, 43.15, 4.98, 80.12, 0, 0],
+        [41.08, 51.92, 4.03, 162.14, 0, 0],
+        [50.67, 12.25, 4.03, 126.06, 0, 0],
+        [54.62, -15.60, 4.03, 74.46, 0, 0],
+        [49.78, -30.02, 6.05, 74.22, 0, 0],
+        [66.11, -26.06, 6.05, 14.33, 0, 0],
+        [76.00, -25.56, 6.05, 87.83, 0, 0],
+        [109.56, -2.11, 4.57, 346.43, 0, 0],
+        [110.47, 3.74, 4.57, 165.29, 0, 0]
+    ],
+    
+    "player_spawn_locations": [
+        [0, 0, 3, 120],
+        [50, 12, 4.03, 126],
+        [54, -15, 4.03, 74]
+    ],
+    
+    "allowed_props": [
+        "Pie", 
+        "Fruit Pie Slice", 
+        "Cream Pie Slice", 
+        "Birthday Cake", 
+        "Wedding Cake", 
+        "Squirting Flower",
+        "Water Gun", 
+        "Storm Cloud", 
+        "Geyser",
+        "Megaphone",
+        "Bike Horn", 
+        "Whistle",
+        "Foghorn",
+        "Opera Singer",
+        "Button",
+        "Toon Train",
+        "Presentation",
+        "Toontanic",
+        "Ladder",
+        "Lamp Post (TT 2)",
+        "TTC Streetlight w/ Sign",
+        "TTC Streetlight (1 Light)", 
+        "TTC Streetlight (3 Lights)"
+    ],
+    
+    "level_geometry": [
+        {
+            "type": "dnastorage",
+            "path": "phase_4/dna/storage_TT.dna"
+        },
+        {
+            "type": "dnastorage",
+            "path": "phase_4/dna/storage_TT_sz.dna"
+        },
+        {
+            "type": "dnastorage",
+            "path": "phase_5/dna/storage_TT_town.dna"
+        },
+        {
+            "type": "dnafile", 
+            "path":"phase_14.5/dna/ttoff_d_ara_ttc_mgPropHunt.dna"
+        },
+        {
+            "type": "model",
+            "path": "phase_14.5/models/props/ttoff_m_propgen_barricade.bam",
+            "pos": [0, 0, 0],
+            "hpr": [0, 0, 0],
+            "scale": [1.0, 1.0, 1.0]
+        }
+    ]
+    
+}

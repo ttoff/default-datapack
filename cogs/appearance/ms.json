@@ -1,0 +1,18 @@
+{
+	"head_models": [
+		{
+			"path": "phase_4/models/char/suitB-heads",
+			"node": "movershaker"
+		}
+	],
+	"body_type": 1,
+	"scale": 0.897920605,
+	"height": 6.7,
+	"torso_texture": "phase_3.5/maps/s_blazer.png",
+	"leg_texture": "phase_3.5/maps/s_leg.png",
+	"arm_texture": "phase_3.5/maps/s_sleeve.png",
+	"name": "#SuitMoverShaker",
+	"name_singular": "#SuitMoverShakerS",
+	"name_plural": "#SuitMoverShakerP",
+	"hand_color": [0.95, 0.75, 0.95, 1.0]
+}

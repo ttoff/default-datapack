@@ -1,0 +1,18 @@
+{
+	"head_models": [
+		{
+			"path": "phase_4/models/char/suitB-heads",
+			"node": "ambulancechaser"
+		}
+	],
+	"body_type": 1,
+	"scale": 0.822306238,
+	"height": 6.39,
+	"torso_texture": "phase_3.5/maps/l_blazer.png",
+	"leg_texture": "phase_3.5/maps/l_leg.png",
+	"arm_texture": "phase_3.5/maps/l_sleeve.png",
+	"name": "#SuitAmbulanceChaser",
+	"name_singular": "#SuitAmbulanceChaserS",
+	"name_plural": "#SuitAmbulanceChaserP",
+	"hand_color": [0.75, 0.75, 0.95, 1.0]
+}

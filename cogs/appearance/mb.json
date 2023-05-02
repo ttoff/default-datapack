@@ -5,7 +5,7 @@
 			"node": "moneybags"
 		}
 	],
-	"body_type": 2,
+	"body_type": 0,
 	"scale": 1.28019324,
 	"height": 6.97,
 	"torso_texture": "phase_3.5/maps/m_blazer.png",

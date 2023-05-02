@@ -6,7 +6,7 @@
 			"texture": "phase_4/maps/name-dropper.png"
 		}
 	],
-	"body_type": 1,
+	"body_type": 0,
 	"scale": 0.717821782,
 	"height": 5.98,
 	"torso_texture": "phase_3.5/maps/s_blazer.png",

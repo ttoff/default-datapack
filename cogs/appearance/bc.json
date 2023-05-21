@@ -1,18 +1,25 @@
 {
-	"head_models": [
-		{
-			"path": "phase_4/models/char/suitB-heads",
-			"node": "beancounter"
-		}
-	],
-	"body_type": 1,
-	"scale": 0.831758034,
-	"height": 5.95,
-	"torso_texture": "phase_3.5/maps/m_blazer.png",
-	"leg_texture": "phase_3.5/maps/m_leg.png",
-	"arm_texture": "phase_3.5/maps/m_sleeve.png",
-	"name": "#SuitBeanCounter",
-	"name_singular": "#SuitBeanCounterS",
-	"name_plural": "#SuitBeanCounterP",
-	"hand_color": [0.65, 0.95, 0.85, 1.0]
+    "head_models": [
+        {
+            "path": "phase_4/models/char/suitB-heads",
+            "node": "beancounter"
+        }
+    ],
+    "body_type": 1,
+    "scale": 0.831758034,
+    "height": 5.95,
+    "torso_texture": "phase_3.5/maps/m_blazer.png",
+    "leg_texture": "phase_3.5/maps/m_leg.png",
+    "arm_texture": "phase_3.5/maps/m_sleeve.png",
+    "name": "#SuitBeanCounter",
+    "name_singular": "#SuitBeanCounterS",
+    "name_plural": "#SuitBeanCounterP",
+    "hand_color": [0.65, 0.95, 0.85, 1.0],
+    "quote_sets": [
+        "bc",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_mint_boss_taunts",
+        "default_mint_boss_minion_taunts"
+    ]
 }

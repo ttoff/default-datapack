@@ -1,19 +1,26 @@
 {
-	"head_models": [
-		{
-			"path": "phase_3.5/models/char/suitC-heads",
-			"node": "tightwad",
-			"texture": "phase_3.5/maps/bottom-feeder.png"
-		}
-	],
-	"body_type": 2,
-	"scale": 0.966183575,
-	"height": 4.81,
-	"torso_texture": "phase_3.5/maps/l_blazer.png",
-	"leg_texture": "phase_3.5/maps/l_leg.png",
-	"arm_texture": "phase_3.5/maps/l_sleeve.png",
-	"name": "#SuitBottomFeeder",
-	"name_singular": "#SuitBottomFeederS",
-	"name_plural": "#SuitBottomFeederP",
-	"hand_color": [0.75, 0.75, 0.95, 1.0]
+    "head_models": [
+        {
+            "path": "phase_3.5/models/char/suitC-heads",
+            "node": "tightwad",
+            "texture": "phase_3.5/maps/bottom-feeder.png"
+        }
+    ],
+    "body_type": 2,
+    "scale": 0.966183575,
+    "height": 4.81,
+    "torso_texture": "phase_3.5/maps/l_blazer.png",
+    "leg_texture": "phase_3.5/maps/l_leg.png",
+    "arm_texture": "phase_3.5/maps/l_sleeve.png",
+    "name": "#SuitBottomFeeder",
+    "name_singular": "#SuitBottomFeederS",
+    "name_plural": "#SuitBottomFeederP",
+    "hand_color": [0.75, 0.75, 0.95, 1.0],
+    "quote_sets": [
+        "bf",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_da_office_boss_taunts",
+        "default_da_office_boss_minion_taunts"
+    ]
 }

@@ -1,18 +1,25 @@
 {
-	"head_models": [
-		{
-			"path": "phase_4/models/char/suitA-heads",
-			"node": "bigcheese"
-		}
-	],
-	"body_type": 0,
-	"scale": 1.15511551,
-	"height": 9.34,
-	"torso_texture": "phase_3.5/maps/c_blazer.png",
-	"leg_texture": "phase_3.5/maps/c_leg.png",
-	"arm_texture": "phase_3.5/maps/c_sleeve.png",
-	"name": "#SuitTheBigCheese",
-	"name_singular": "#SuitTheBigCheeseS",
-	"name_plural": "#SuitTheBigCheeseP",
-	"hand_color": [0.75, 0.95, 0.75, 1.0]
+    "head_models": [
+        {
+            "path": "phase_4/models/char/suitA-heads",
+            "node": "bigcheese"
+        }
+    ],
+    "body_type": 0,
+    "scale": 1.15511551,
+    "height": 9.34,
+    "torso_texture": "phase_3.5/maps/c_blazer.png",
+    "leg_texture": "phase_3.5/maps/c_leg.png",
+    "arm_texture": "phase_3.5/maps/c_sleeve.png",
+    "name": "#SuitTheBigCheese",
+    "name_singular": "#SuitTheBigCheeseS",
+    "name_plural": "#SuitTheBigCheeseP",
+    "hand_color": [0.75, 0.95, 0.75, 1.0],
+    "quote_sets": [
+        "tbc",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_country_club_boss_taunts",
+        "default_country_club_minion_taunts"
+    ]
 }

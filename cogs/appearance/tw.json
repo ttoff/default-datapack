@@ -1,18 +1,25 @@
 {
-	"head_models": [
-		{
-			"path": "phase_3.5/models/char/suitC-heads",
-			"node": "tightwad"
-		}
-	],
-	"body_type": 2,
-	"scale": 1.08695652,
-	"height": 5.41,
-	"torso_texture": "phase_3.5/maps/m_blazer.png",
-	"leg_texture": "phase_3.5/maps/m_leg.png",
-	"arm_texture": "phase_3.5/maps/m_sleeve.png",
-	"name": "#SuitTightwad",
-	"name_singular": "#SuitTightwadS",
-	"name_plural": "#SuitTightwadP",
-	"hand_color": [0.65, 0.95, 0.85, 1.0]
+    "head_models": [
+        {
+            "path": "phase_3.5/models/char/suitC-heads",
+            "node": "tightwad"
+        }
+    ],
+    "body_type": 2,
+    "scale": 1.08695652,
+    "height": 5.41,
+    "torso_texture": "phase_3.5/maps/m_blazer.png",
+    "leg_texture": "phase_3.5/maps/m_leg.png",
+    "arm_texture": "phase_3.5/maps/m_sleeve.png",
+    "name": "#SuitTightwad",
+    "name_singular": "#SuitTightwadS",
+    "name_plural": "#SuitTightwadP",
+    "hand_color": [0.65, 0.95, 0.85, 1.0],
+    "quote_sets": [
+        "tw",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_mint_boss_taunts",
+        "default_mint_boss_minion_taunts"
+    ]
 }

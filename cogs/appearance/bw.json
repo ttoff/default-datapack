@@ -1,18 +1,25 @@
 {
-	"head_models": [
-		{
-			"path": "phase_4/models/char/suitA-heads",
-			"node": "bigwig"
-		}
-	],
-	"body_type": 0,
-	"scale": 1.15511551,
-	"height": 8.69,
-	"torso_texture": "phase_3.5/maps/l_blazer.png",
-	"leg_texture": "phase_3.5/maps/l_leg.png",
-	"arm_texture": "phase_3.5/maps/l_sleeve.png",
-	"name": "#SuitBigWig",
-	"name_singular": "#SuitBigWigS",
-	"name_plural": "#SuitBigWigP",
-	"hand_color": [0.75, 0.75, 0.95, 1.0]
+    "head_models": [
+        {
+            "path": "phase_4/models/char/suitA-heads",
+            "node": "bigwig"
+        }
+    ],
+    "body_type": 0,
+    "scale": 1.15511551,
+    "height": 8.69,
+    "torso_texture": "phase_3.5/maps/l_blazer.png",
+    "leg_texture": "phase_3.5/maps/l_leg.png",
+    "arm_texture": "phase_3.5/maps/l_sleeve.png",
+    "name": "#SuitBigWig",
+    "name_singular": "#SuitBigWigS",
+    "name_plural": "#SuitBigWigP",
+    "hand_color": [0.75, 0.75, 0.95, 1.0],
+    "quote_sets": [
+        "bw",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_da_office_boss_taunts",
+        "default_da_office_boss_minion_taunts"
+    ]
 }

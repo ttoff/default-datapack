@@ -1,18 +1,25 @@
 {
-	"head_models": [
-		{
-			"path": "phase_3.5/models/char/suitC-heads",
-			"node": "micromanager"
-		}
-	],
-	"body_type": 2,
-	"scale": 0.603864734,
-	"height": 3.25,
-	"torso_texture": "phase_3.5/maps/c_blazer.png",
-	"leg_texture": "phase_3.5/maps/c_leg.png",
-	"arm_texture": "phase_3.5/maps/c_sleeve.png",
-	"name": "#SuitMicromanager",
-	"name_singular": "#SuitMicromanagerS",
-	"name_plural": "#SuitMicromanagerP",
-	"hand_color": [0.95, 0.75, 0.75, 1.0]
+    "head_models": [
+        {
+            "path": "phase_3.5/models/char/suitC-heads",
+            "node": "micromanager"
+        }
+    ],
+    "body_type": 2,
+    "scale": 0.603864734,
+    "height": 3.25,
+    "torso_texture": "phase_3.5/maps/c_blazer.png",
+    "leg_texture": "phase_3.5/maps/c_leg.png",
+    "arm_texture": "phase_3.5/maps/c_sleeve.png",
+    "name": "#SuitMicromanager",
+    "name_singular": "#SuitMicromanagerS",
+    "name_plural": "#SuitMicromanagerP",
+    "hand_color": [0.95, 0.75, 0.75, 1.0],
+    "quote_sets": [
+        "mm",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_country_club_boss_taunts",
+        "default_country_club_minion_taunts"
+    ]
 }

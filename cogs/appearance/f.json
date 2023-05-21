@@ -1,22 +1,28 @@
 {
-	"head_models": [
-		{
-			"path": "phase_3.5/models/char/suitC-heads",
-			"node": "flunky"
-		},
-		{
-			"path": "phase_3.5/models/char/suitC-heads",
-			"node": "glasses"
-		}
-	],
-	"body_type": 2,
-	"scale": 0.966183575,
-	"height": 4.88,
-	"torso_texture": "phase_3.5/maps/c_blazer.png",
-	"leg_texture": "phase_3.5/maps/c_leg.png",
-	"arm_texture": "phase_3.5/maps/c_sleeve.png",
-	"name": "#SuitFlunky",
-	"name_singular": "#SuitFlunkyS",
-	"name_plural": "#SuitFlunkyP",
-	"hand_color": [0.95, 0.75, 0.75, 1.0]
+    "head_models": [
+        {
+            "path": "phase_3.5/models/char/suitC-heads",
+            "node": "flunky"
+        },
+        {
+            "path": "phase_3.5/models/char/suitC-heads",
+            "node": "glasses"
+        }
+    ],
+    "body_type": 2,
+    "scale": 0.966183575,
+    "height": 4.88,
+    "torso_texture": "phase_3.5/maps/c_blazer.png",
+    "leg_texture": "phase_3.5/maps/c_leg.png",
+    "arm_texture": "phase_3.5/maps/c_sleeve.png",
+    "name": "#SuitFlunky",
+    "name_singular": "#SuitFlunkyS",
+    "name_plural": "#SuitFlunkyP",
+    "hand_color": [0.95, 0.75, 0.75, 1.0],
+    "quote_sets": [
+        "f",
+        "default_cog_building_boss_taunts",
+        "default_country_club_boss_taunts",
+        "default_country_club_minion_taunts"
+    ]
 }

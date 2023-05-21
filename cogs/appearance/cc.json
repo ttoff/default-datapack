@@ -1,19 +1,26 @@
 {
-	"head_models": [
-		{
-			"path": "phase_3.5/models/char/suitC-heads",
-			"node": "coldcaller",
-			"color_scale": [0.55, 0.65, 1.0, 1.0]
-		}
-	],
-	"body_type": 2,
-	"scale": 0.845410628,
-	"height": 4.63,
-	"torso_texture": "phase_3.5/maps/s_blazer.png",
-	"leg_texture": "phase_3.5/maps/s_leg.png",
-	"arm_texture": "phase_3.5/maps/s_sleeve.png",
-	"name": "#SuitColdCaller",
-	"name_singular": "#SuitColdCallerS",
-	"name_plural": "#SuitColdCallerP",
-	"hand_color": [0.55, 0.65, 1.0, 1.0]
+    "head_models": [
+        {
+            "path": "phase_3.5/models/char/suitC-heads",
+            "node": "coldcaller",
+            "color_scale": [0.55, 0.65, 1.0, 1.0]
+        }
+    ],
+    "body_type": 2,
+    "scale": 0.845410628,
+    "height": 4.63,
+    "torso_texture": "phase_3.5/maps/s_blazer.png",
+    "leg_texture": "phase_3.5/maps/s_leg.png",
+    "arm_texture": "phase_3.5/maps/s_sleeve.png",
+    "name": "#SuitColdCaller",
+    "name_singular": "#SuitColdCallerS",
+    "name_plural": "#SuitColdCallerP",
+    "hand_color": [0.55, 0.65, 1.0, 1.0],
+    "quote_sets": [
+        "cc",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_factory_boss_taunts",
+        "default_factory_boss_minion_taunts"
+    ]
 }

@@ -1,18 +1,25 @@
 {
-	"head_models": [
-		{
-			"path": "phase_4/models/char/suitB-heads",
-			"node": "telemarketer"
-		}
-	],
-	"body_type": 1,
-	"scale": 0.708884688,
-	"height": 5.24,
-	"torso_texture": "phase_3.5/maps/s_blazer.png",
-	"leg_texture": "phase_3.5/maps/s_leg.png",
-	"arm_texture": "phase_3.5/maps/s_sleeve.png",
-	"name": "#SuitTelemarketer",
-	"name_singular": "#SuitTelemarketerS",
-	"name_plural": "#SuitTelemarketerP",
-	"hand_color": [0.95, 0.75, 0.95, 1.0]
+    "head_models": [
+        {
+            "path": "phase_4/models/char/suitB-heads",
+            "node": "telemarketer"
+        }
+    ],
+    "body_type": 1,
+    "scale": 0.708884688,
+    "height": 5.24,
+    "torso_texture": "phase_3.5/maps/s_blazer.png",
+    "leg_texture": "phase_3.5/maps/s_leg.png",
+    "arm_texture": "phase_3.5/maps/s_sleeve.png",
+    "name": "#SuitTelemarketer",
+    "name_singular": "#SuitTelemarketerS",
+    "name_plural": "#SuitTelemarketerP",
+    "hand_color": [0.95, 0.75, 0.95, 1.0],
+    "quote_sets": [
+        "tm",
+        "default_brushoffs",
+        "default_cog_building_boss_taunts",
+        "default_factory_boss_taunts",
+        "default_factory_boss_minion_taunts"
+    ]
 }

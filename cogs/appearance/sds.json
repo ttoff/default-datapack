@@ -21,6 +21,8 @@
         "default_brushoffs",
         "default_cog_building_boss_taunts",
         "default_country_club_boss_taunts",
-        "default_country_club_minion_taunts"
+        "default_country_club_minion_taunts",
+        "default_explode",
+        "default_fire"
     ]
 }
